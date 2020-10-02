@@ -2,8 +2,7 @@ div
 {
     border-radius: 5px;
     }
-#header
-{
+#header{
     position: fixed;
     z-index: 1;
     height:50px;
@@ -12,7 +11,7 @@ div
     margin-bottom: 10px
     }
 
-#name {
+#name{
     float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
@@ -63,19 +62,9 @@ a:hover {
     background-color: #54b5ff;
     }
 
-/*.left
-{
-    float: left;
-    margin-top: 50px;
-    /*margin-right: -90px;
-    height: relative;
-    width: 10%;
-    background-color: #4160E8;
-    }*/
-    
 #footer
 {
-    height:20px;
+    height:40px;
     clear:both;
     position: relative;
     background-color: #4c8eff;
